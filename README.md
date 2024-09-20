@@ -4,7 +4,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=farhadnazir&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<p align="center" style="width: 1080px; background-color: black;" >
+<p align="center" style="width: 800px; background-color: black;" >
 <img alt="Coder GIF" style="" src="https://cdn.vectorstock.com/i/500p/08/82/software-developer-character-programmer-vector-26310882.jpg" /> 
 </p>
 <h2>💫 About Me:</h2>
