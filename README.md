@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=farhadnazir&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <p align="center" style="width: 1080px; background-color: black;" >
-<img alt="Coder GIF" style="" src="https://media.licdn.com/dms/image/D4D22AQE8rf8CGpmUxA/feedshare-shrink_2048_1536/0/1713079969752?e=1715817600&v=beta&t=_aj-5ZPLZLsRyTZxV5sIRhznsD6ccsc4kc56nRATWfw" /> 
+<img alt="Coder GIF" style="" src="https://cdn.vectorstock.com/i/500p/08/82/software-developer-character-programmer-vector-26310882.jpg" /> 
 </p>
 <h2>💫 About Me:</h2>
 🔭 I’m currently working on Ai-Powered Custom Printing Ecommerce Website<br><br>🌱 I’m currently learning NodeJs, ExpressJs, YELP, MongoDB<br><br>👯 I’m looking to collaborate on MERN stack website development projects<br><br>👨‍💻 All of my projects are available at https://github.com/farhadnazir/<br><br>💬 Ask me about React, Vue, Node, Express and MongoDB<br><br>📫 How to reach me farhadnazir1111@gmail.com<br><br>⚡ Fun fact I am a superb Video Editor also.
