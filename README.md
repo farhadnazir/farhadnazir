@@ -1,20 +1,27 @@
 <h1 align="center">Hi 👋, I'm Farhad Nazir</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer (Flutter & Laravel)</h3>
 
-[![](https://visitcount.itsvg.in/api?id=farhadnazir&icon=2&color=0)](https://visitcount.itsvg.in)
+<!-- <p align="center" style="width: 80%;">
+  <img alt="Coder GIF" src="https://cdn.vectorstock.com/i/500p/08/82/software-developer-character-programmer-vector-26310882.jpg" />
+</p> -->
 
-<p align="center" style="width: 100%;" >
-<img alt="Coder GIF" src="https://cdn.vectorstock.com/i/500p/08/82/software-developer-character-programmer-vector-26310882.jpg" />
-</p>
-
-<h2>💫 About Me:</h2>
-🔭 I’m currently building and scaling my flagship project, <b>Asaan Optics</b>, a POS system used by <b>800+ active retail businesses</b>.<br><br>
-🌱 I’m deeply focused on advanced <b>Flutter architectures</b> for cross-platform apps and building robust web ecosystems with <b>Laravel</b>.<br><br>
-👯 I’m looking to collaborate on impactful SaaS products and real-world desktop/mobile applications.<br><br>
-👨‍💻 All of my projects are available at [https://github.com/farhadnazir/](https://github.com/farhadnazir/)<br><br>
-💬 Ask me about <b>Flutter, Dart, Laravel, PHP, RESTful APIs, and offline-first databases (SQLite)</b>.<br><br>
-📫 How to reach me: <b>farhadnazir1111@gmail.com</b><br><br>
-⚡ Fun fact: Aside from writing clean code, I am also a superb Video Editor!
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h2>💫 About Me:</h2>
+      🔭 I’m currently building and scaling my flagship project, <b>Asaan Optics</b>, a POS system used by <b>800+ active retail businesses</b>.<br><br>
+      🌱 I’m deeply focused on advanced <b>Flutter architectures</b> for cross-platform apps and building robust web ecosystems with <b>Laravel</b>.<br><br>
+      👯 I’m looking to collaborate on impactful SaaS products and real-world desktop/mobile applications.<br><br>
+      👨‍💻 All of my projects are available at <a href="https://github.com/farhadnazir/">github.com/farhadnazir</a><br><br>
+      💬 Ask me about <b>Flutter, Dart, Laravel, PHP, RESTful APIs, and offline-first databases (SQLite)</b>.<br><br>
+      📫 How to reach me: <b>farhadnazir1111@gmail.com</b><br><br>
+      ⚡ Fun fact: Aside from writing clean code, I am also a superb Video Editor!
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/235fcbc0-c1fa-47e6-adf9-845eba47a114" alt="Farhad's Business Card" width="350" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Highlighted Projects:
 * **Asaan Optics:** Comprehensive cross-platform (Mobile & Desktop) POS system managing 800+ optical businesses and 50,000+ patient records.
@@ -48,9 +55,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhadnazir&theme=radical&hide_border=false" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadnazir&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
