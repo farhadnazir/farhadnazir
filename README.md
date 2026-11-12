@@ -1,118 +1,128 @@
-<h1 align="center">Hi 👋, I'm Farhad Nazir</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer (Flutter & Laravel) | Founder @ Techwine Solutions</h3>
+<h1 align="center">Hi, I'm Farhad Nazir 👋</h1>
+<p align="center"><b>Full-stack software developer</b> · Founder of <a href="https://www.techwinesolutions.com">Techwine Solutions</a> · Riyadh, Saudi Arabia</p>
+
+<p align="center">
+  <a href="https://farhadnazir.com"><img src="https://img.shields.io/badge/Portfolio-farhadnazir.com-8c1d2c?style=flat-square" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/farhadnazir"><img src="https://img.shields.io/badge/LinkedIn-farhadnazir-0A66C2?style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:farhadnazirksa@gmail.com"><img src="https://img.shields.io/badge/Email-farhadnazirksa%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/966536566380"><img src="https://img.shields.io/badge/WhatsApp-%2B966%2053%20656%206380-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+</p>
 
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h2>💫 About Me:</h2>
-      🔭 I’m building and scaling my flagship product, <b>Asaan Optics</b>, a POS and shop management system used by <b>800+ active retail businesses</b>. It now runs on <b>Android phones, tablets and Chromebooks, Windows desktop</b>, and is coming to <b>iPhone & iPad</b>, in <b>9 languages</b> including Arabic and Urdu.<br><br>
-      🌱 I’m deeply focused on advanced <b>Flutter architectures</b> for cross-platform apps (mobile, tablet and desktop) and on robust web ecosystems with <b>Laravel</b> and <b>Node.js</b>.<br><br>
-      👯 I’m looking to collaborate on impactful SaaS products and real-world desktop/mobile applications.<br><br>
-      👨‍💻 All of my projects are available at <a href="https://github.com/farhadnazir/">github.com/farhadnazir</a><br><br>
-      💬 Ask me about <b>Flutter, Dart, Laravel, PHP, Node.js, RESTful APIs, offline-first databases (SQLite), e-invoicing (ZATCA) and app store releases</b>.<br><br>
-      📫 How to reach me: <b>farhadnazir1111@gmail.com</b><br><br>
-      ⚡ Fun fact: Aside from writing clean code, I am also a superb Video Editor!
+      <h3>About me</h3>
+      <p>I design and build web applications, SaaS platforms, Flutter mobile apps and Windows desktop software, from system architecture through to production.</p>
+      <p>My flagship product is <a href="https://asaanoptics.com"><b>Asaan Optics</b></a>, optical shop software for Android and Windows that I founded and build on my own. Through my company Techwine Solutions I also build client systems such as online stores, ERPs and marketplaces.</p>
+      <p>Ask me about <b>Flutter</b>, <b>Laravel and Livewire</b>, <b>Node.js</b>, REST APIs, offline-first apps with SQLite, ZATCA e-invoicing and shipping apps to Google Play and the App Store.</p>
+      <p>Case studies, screenshots and contact details: <a href="https://farhadnazir.com"><b>farhadnazir.com</b></a></p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/235fcbc0-c1fa-47e6-adf9-845eba47a114" alt="Farhad's Business Card" width="350" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+      <img src="https://github.com/user-attachments/assets/235fcbc0-c1fa-47e6-adf9-845eba47a114" alt="Illustrated portrait of Farhad Nazir with the words 'Hello I'm Farhad, Software Engineer'" width="260">
     </td>
   </tr>
 </table>
 
-## 🚀 Highlighted Projects:
+## Featured work
+
+### [Asaan Optics](https://farhadnazir.com/projects/asaan-optics/)
+
+Optical shop software for Android and Windows: prescriptions, counter sales, stock and staff shifts on one shared shop account. Available in nine languages, including Arabic and Urdu, with Saudi VAT receipts and ZATCA Phase 2 e-invoicing built into the Windows app. Founder and sole developer.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/farhadnazir/Asaan-Optics-App-Official"><img src="assets/projects/asaan_optics.webp" alt="Asaan Optics on a tablet" width="100%"></a>
-      <h3>👓 <a href="https://github.com/farhadnazir/Asaan-Optics-App-Official">Asaan Optics</a></h3>
-      Cross-platform POS for optical shops: prescriptions, sales, repairs, stock, branches, ZATCA e-invoicing, eye screening and an offline AI helper. <b>800+ businesses, 50,000+ patient records.</b><br>
-      <sub>Flutter • Node.js • TiDB/MySQL • Firebase • ML Kit • GitHub Actions + fastlane</sub><br>
-      <a href="https://asaanoptics.com">Website</a> • <a href="https://play.google.com/store/apps/details?id=com.techwinesolutions.asaanoptics">Google Play</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/farhadnazir/Asaan-Optics-App-Official#%EF%B8%8F-windows-desktop-software"><img src="assets/projects/asaan_optics_desktop.webp" alt="Asaan Optics desktop" width="100%"></a>
-      <h3>🖥️ <a href="https://github.com/farhadnazir/Asaan-Optics-App-Official#%EF%B8%8F-windows-desktop-software">Asaan Optics Desktop</a></h3>
-      The Windows back office of Asaan Optics: point of sale, frames/lenses/contact lens inventory, stock control center, My Branches, close shift and Saudi e-invoicing, synced with the mobile app.<br>
-      <sub>Flutter Windows • SQLite • REST API</sub><br>
-      <a href="https://asaanoptics.com/download.html">Download</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/farhadnazir/Next-Gen-Eyewear-E-Commerce-and-ERP"><img src="assets/projects/next_gen_eyewear.webp" alt="Next-Gen Eyewear store" width="100%"></a>
-      <h3>🛍️ <a href="https://github.com/farhadnazir/Next-Gen-Eyewear-E-Commerce-and-ERP">Next-Gen Eyewear E-Commerce & ERP</a></h3>
-      Eyewear store with a lens engine (Rx, lens types and add-ons), contact lens volume pricing, variant stock and an admin command center.<br>
-      <sub>Laravel • Livewire • Tailwind CSS • MySQL</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/farhadnazir/Advance-ERP-System---Software-House-Task-Management"><img src="assets/projects/goftech_erp.webp" alt="GOFTECH ERP" width="100%"></a>
-      <h3>🧑🏻‍💻 <a href="https://github.com/farhadnazir/Advance-ERP-System---Software-House-Task-Management">GOFTECH Workspace & ERP</a></h3>
-      ERP for a software house: Kanban projects, real-time time tracking, HRMS with attendance and leaves, CRM and invoicing.<br>
-      <sub>Laravel • Livewire • Alpine.js • Tailwind CSS • MySQL</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/farhadnazir/Asaan_rental_app"><img src="assets/projects/rental_pro.webp" alt="Rental Pro" width="100%"></a>
-      <h3>🏢 <a href="https://github.com/farhadnazir/Asaan_rental_app">Rental Pro</a></h3>
-      Offline-first desktop app for property managers: buildings, apartments, tenants, agreements, rent and automatic Google Drive backups.<br>
-      <sub>Flutter • SQLite • Google Drive API</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/farhadnazir/MerchMind-AI-Platform"><img src="assets/projects/merchmind.webp" alt="MerchMind" width="100%"></a>
-      <h3>🎨 <a href="https://github.com/farhadnazir/MerchMind-AI-Platform">MerchMind AI</a></h3>
-      AI-powered custom printing and merch marketplace: generate designs with AI, shop, sell and pay online.<br>
-      <sub>React • Redux • Node.js • Express • MongoDB • Gemini/OpenAI • Stripe</sub><br>
-      <a href="https://merchmind.netlify.app">Live demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/farhadnazir/IntelliScan"><img src="assets/projects/intelliscan.webp" alt="IntelliScan OCR" width="100%"></a>
-      <h3>🔎 <a href="https://github.com/farhadnazir/IntelliScan">IntelliScan OCR</a></h3>
-      Web app that extracts text from images, with noise removal and morphological clean-up to get the best result.<br>
-      <sub>Python • Flask • Tesseract • OpenCV</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://www.techwinesolutions.com"><img src="assets/projects/techwine.webp" alt="Techwine Solutions" width="100%"></a>
-      <h3>🏷️ <a href="https://www.techwinesolutions.com">Techwine Solutions</a></h3>
-      My software company: custom software, mobile apps, AI products and digital solutions for businesses.<br>
-      <sub>Website: <a href="https://www.techwinesolutions.com">techwinesolutions.com</a></sub>
-    </td>
+    <td width="50%"><img src="assets/projects/asaan-optics-desktop.webp" width="100%" alt="Asaan Optics Windows dashboard with quick actions and a business overview for a demo shop"></td>
+    <td width="50%"><img src="assets/projects/asaan-optics-tablet.webp" width="100%" alt="Asaan Optics on a tablet: customer prescription search beside a receipt with right and left eye values"></td>
   </tr>
 </table>
 
-**More work:** **Track Cue**, a snooker club management and billing system (Laravel) • **GeoPrints**, a privacy-first travel journal and location tracker (Flutter), [see it here](https://www.techwinesolutions.com/geoprintsapp).
+<sub>Flutter · Dart · Node.js · Express · MySQL (TiDB) · SQLite · Firebase · Google ML Kit · GitHub Actions</sub><br>
+[Website](https://asaanoptics.com) · [Case study](https://farhadnazir.com/projects/asaan-optics/) · [Google Play](https://play.google.com/store/apps/details?id=com.techwinesolutions.asaanoptics) · [Windows download](https://asaanoptics.com/download) · [Video tutorials](https://www.youtube.com/playlist?list=PLI9xnOxtXgaE) · [Showcase repo](https://github.com/farhadnazir/Asaan-Optics-App-Official)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farhadnazir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imfarhadnazir) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@imfarhadnazir) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@imfarhadnazir)
+### More case studies
+
+| Project | What it is | Status | Built with |
+|---|---|---|---|
+| [**KAYANAK**](https://farhadnazir.com/projects/kayanak/) | Arabic-first car marketplace and sales CRM for a Riyadh car business, with installment pricing, car-wash booking and an AI sales assistant. Lead full-stack developer and DevOps. | Live | NestJS, Next.js, PostgreSQL, Prisma, Flutter |
+| [**Estasher**](https://farhadnazir.com/projects/estasher/) | Bilingual iOS and Android marketplace where clients in Saudi Arabia book consultations and request offers from verified engineers and engineering offices. | Live on iOS and Android | Flutter, Firebase, PHP, MySQL |
+| [**Faisal Optical Service**](https://farhadnazir.com/projects/faisal-optical-service/) | Online eyewear store with a step-by-step prescription lens configurator and a full admin back office. | Live | Laravel, Livewire, MySQL, Tailwind CSS |
+| [**Shehmina's Wardrobe**](https://farhadnazir.com/projects/shehminas-wardrobe/) | E-commerce for a womenswear label, with made-to-measure tailoring options and a full admin back office. | Working prototype | Laravel, Livewire Volt, Tailwind CSS |
+| [**CampusPro**](https://farhadnazir.com/projects/campuspro/) | Multi-tenant management platform for schools, colleges and academies. I audited and hardened it for security, tenant isolation and data integrity. | In development | ASP.NET Core, EF Core, PostgreSQL, React |
+| [**Caption AI**](https://farhadnazir.com/projects/caption-ai/) | Captioning web app for South Asian video creators, with Gemini transcription and a full caption editor. Built in a team of three. | In development | Node.js, React, TypeScript, Gemini, FFmpeg |
+| [**Designers Glasses**](https://farhadnazir.com/projects/designers-glasses/) | Online eyewear store with a prescription lens configurator, contact lens shop and admin back office, delivered through Techwine Solutions. | Live | Laravel, Livewire, MySQL, Tailwind CSS |
+
+All case studies: **[farhadnazir.com/projects](https://farhadnazir.com/projects/)**
+
+### Public repositories
+
+- [Asaan Rental Pro](https://github.com/farhadnazir/Asaan_rental_app): offline Windows desktop app for landlords (Flutter, SQLite). [Download v1.0.0](https://github.com/farhadnazir/Asaan_rental_app/releases/tag/v1.0.0)
+- [SoftHouse Pro ERP](https://github.com/farhadnazir/Advance-ERP-System---Software-House-Task-Management): Laravel and Livewire ERP for software houses, with Kanban, time tracking, attendance, invoicing and a client portal
+- [Designers Glasses overview](https://github.com/farhadnazir/Next-Gen-Eyewear-E-Commerce-and-ERP): public overview of the eyewear store and admin ERP
+- [Asaan Optics showcase](https://github.com/farhadnazir/Asaan-Optics-App-Official): screenshots, features and downloads for Asaan Optics
+- [Techwine (first website)](https://github.com/farhadnazir/techwine): the first Techwine Solutions website, built with React and Vite
+
+## Tech stack
+
+**Mobile and desktop**<br>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
+
+**Backend**<br>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+**Frontend**<br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
+
+**Data and delivery**<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![fastlane](https://img.shields.io/badge/fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black)
+
+## GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=farhadnazir&theme=dark&hide_border=true&background=0D1117" />
+    <img alt="GitHub contribution streak for farhadnazir" src="https://streak-stats.demolab.com/?user=farhadnazir&theme=default&hide_border=true" />
+  </picture>
+</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhadnazir/farhadnazir/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhadnazir/farhadnazir/output/github-snake.svg" />
+  <img alt="Snake animation eating farhadnazir's GitHub contribution graph" src="https://raw.githubusercontent.com/farhadnazir/farhadnazir/output/github-snake.svg" />
 </picture>
 
-# 💻 Tech Stack:
+## Get in touch
 
-**Mobile & Desktop:**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+For projects and enquiries:
 
-**Backend & Web:**
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- Website: [farhadnazir.com](https://farhadnazir.com)
+- Email: [farhadnazirksa@gmail.com](mailto:farhadnazirksa@gmail.com)
+- LinkedIn: [linkedin.com/in/farhadnazir](https://www.linkedin.com/in/farhadnazir)
+- WhatsApp: [+966 53 656 6380](https://wa.me/966536566380)
+- Company: [Techwine Solutions](https://www.techwinesolutions.com)
 
-**Databases & Tools:**
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TiDB](https://img.shields.io/badge/TiDB-DC150B?style=for-the-badge&logo=tidb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Design & Editing:**
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhadnazir&theme=radical&hide_border=false" />
-  <br/><br/>
-</div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="right">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/farhad-nazir-signature-white.svg" />
+    <img src="assets/brand/farhad-nazir-signature.svg" alt="Farhad Nazir signature" width="200" />
+  </picture>
+</p>
